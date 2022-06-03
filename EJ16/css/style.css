@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+.reloj {
+  border: 1px solid black;
+  background-color: rgba(0, 255, 255, 0.195);
+  padding: 20px;
+  font-size: 30px;
+  font-weight: 600;
+  margin: 1em 3em 1em 1em;
+}
